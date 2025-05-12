@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ritesh Hiremath
 - 👀 I’m interested in making projects!!
-- 🌱 I’m currently learning Generative AI.
-- 💞️ I’m looking to collaborate on project related to Generative AI
+- 🌱 I’m currently learning WEB DEV.
+- 💞️ I’m looking to collaborate on project related to WEB DEV.
 - 📫 How to reach me @matrixglitch333 on discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: LoL backwards is LoL
