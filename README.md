@@ -1,4 +1,4 @@
-<h1 align="center">hi, ritesh here 👋</h1>
+<h1 align="center">hi, RiTesH here 👋</h1>
 <p align="center">building stuff • breaking stuff • figuring things out</p>
 
 ---
