@@ -1,12 +1,51 @@
-- 👋 Hi, I’m Ritesh Hiremath
-- 👀 I’m interested in making projects!!
-- 🌱 I’m currently learning WEB DEV.
-- 💞️ I’m looking to collaborate on project related to WEB DEV.
-- 📫 How to reach me @matrixglitch333 on discord
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: LoL backwards is LoL
+<h1 align="center">hi, ritesh here 👋</h1>
+<p align="center">building stuff • breaking stuff • figuring things out</p>
 
-<!---
-dumbesthuman/dumbesthuman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🧠 about
+- into building random things that somehow work  
+- currently learning & working with **react, python, c++**  
+- exploring **computer vision + hardware (arduino, raspberry pi)**  
+- still figuring things out, but shipping anyway  
+
+---
+
+## ⚙️ what i use
+- 💻 languages: python, c++  
+- 🌐 web: react, html, css, js  
+- 👁️ computer vision: opencv, basic ml stuff  
+- 🔌 hardware: arduino, raspberry pi  
+
+---
+
+## 🚀 things i've built
+- spam email classifier  
+- computer vision experiments  
+- raspberry pi + arduino projects  
+- random web stuff  
+
+*(more coming... probably breaking as we speak)*
+
+---
+
+## 🎯 right now
+- hackathons ⚡  
+- placement prep 📚  
+- trying to get better at building real stuff  
+
+---
+
+## 🤝 collab?
+- if it's interesting, i'm in  
+- bonus if it's slightly chaotic  
+
+---
+
+## 📫 reach me
+- discord: **@matrixglitch333**
+
+---
+
+## ⚡ fun
+> LoL backwards is still LoL
