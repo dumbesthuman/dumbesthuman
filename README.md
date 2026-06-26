@@ -100,14 +100,21 @@ Responsive React applications built while exploring modern frontend development.
 
 ## 📊 GitHub Stats
 
-*(GitHub stats cards go here.)*
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dumbesthuman&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 ---
 
 ## 🤝 Let's Connect
 
-* LinkedIn
-* Portfolio *(coming soon)*
+
+<a href="https://www.linkedin.com/in/ritesh-hiremath/" target="_blank">
+  * LinkedIn
+</a>
+
+<a href="riteshhh.in" target="_blank">
+  * Portfolio 
+</a>
 * Discord: **@matrixglitch333**
 
 ---
