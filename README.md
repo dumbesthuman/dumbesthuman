@@ -1,51 +1,119 @@
-<h1 align="center">hi, Ritesh here 👋</h1>
-<p align="center">building stuff • breaking stuff • figuring things out</p>
+# <div align="center">
+
+# Ritesh Hiremath
+
+### Computer Science Engineer • AI Enthusiast • Full-Stack Developer
+
+*"Building software that solves real problems."*
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=AI+%7C+Full-Stack+%7C+Computer+Vision;Hackathon+Builder;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
-## 🧠 about
-- into building random things that somehow work  
-- currently learning & working with **react, python, c++**  
-- exploring **computer vision + hardware (arduino, raspberry pi)**  
-- still figuring things out, but shipping anyway  
+## 🚀 About Me
+
+I'm a Computer Science student passionate about building products rather than just completing tutorials.
+
+I enjoy working at the intersection of
+
+* 🤖 Artificial Intelligence
+* 👁️ Computer Vision
+* 🌐 Full Stack Development
+* ⚡ Hackathons
+* 🔍 Problem Solving
+
+Currently preparing for software engineering roles while building projects that solve real-world problems.
 
 ---
 
-## ⚙️ what i use
-- 💻 languages: python, c++  
-- 🌐 web: react, html, css, js  
-- 👁️ computer vision: opencv, basic ml stuff  
-- 🔌 hardware: arduino, raspberry pi  
+## 🛠 Tech Stack
+
+### Languages
+
+Python • C++ • JavaScript
+
+### Frontend
+
+React • HTML • CSS
+
+### Backend
+
+Node.js • Express *(Spring Boot soon)*
+
+### AI
+
+OpenCV • NumPy • scikit-learn
+
+### Tools
+
+Git • GitHub • Linux • VS Code • Arduino • Raspberry Pi
 
 ---
 
-## 🚀 things i've built
-- spam email classifier  
-- computer vision experiments  
-- raspberry pi + arduino projects  
-- random web stuff  
+## 📌 Featured Projects
 
-*(more coming... probably breaking as we speak)*
+### 🚨 Smart Tourist Safety System
+
+AI-powered tourist safety platform with geofencing, emergency response, and digital identity.
 
 ---
 
-## 🎯 right now
-- hackathons ⚡  
-- placement prep 📚  
-- trying to get better at building real stuff  
+### 📧 Spam Email Classifier
+
+Machine learning model for detecting spam emails using NLP techniques.
 
 ---
 
-## 🤝 collab?
-- if it's interesting, i'm in  
-- bonus if it's slightly chaotic  
+### 👁 Computer Vision Projects
+
+Experiments involving OpenCV, object detection, and image processing.
 
 ---
 
-## 📫 reach me
-- discord: **@matrixglitch333**
+### 🌐 Web Applications
+
+Responsive React applications built while exploring modern frontend development.
 
 ---
 
-## ⚡ fun
-> LoL backwards is still LoL
+## 📈 Currently Working On
+
+* 🏆 Smart India Hackathon
+* 📚 Placement Preparation
+* 💻 Data Structures & Algorithms
+* 🤖 AI Projects
+* ⚙ Backend Development
+
+---
+
+## 🎯 2026 Goals
+
+* Win a national-level hackathon
+* Build production-ready AI projects
+* Master backend development
+* Solve 500+ DSA problems
+* Contribute to open source
+
+---
+
+## 📊 GitHub Stats
+
+*(GitHub stats cards go here.)*
+
+---
+
+## 🤝 Let's Connect
+
+* LinkedIn
+* Portfolio *(coming soon)*
+* Discord: **@matrixglitch333**
+
+---
+
+<div align="center">
+
+### *"Stay curious. Build often. Improve continuously."*
+
+</div>
