@@ -109,7 +109,6 @@ Modern responsive applications built using React and backend technologies.
 - 🌐 Full Stack Development
 - 📚 Continuous Learning
 
-*(Update this section as you gain more achievements.)*
 
 ---
 
