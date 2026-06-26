@@ -1,128 +1,147 @@
-# <div align="center">
 
-# Ritesh Hiremath
+<div align="center">
+
+# Hi, I'm Ritesh Hiremath 👋
 
 ### Computer Science Engineer • AI Enthusiast • Full-Stack Developer
 
-*"Building software that solves real problems."*
+*"Building software that solves real-world problems."*
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=AI+%7C+Full-Stack+%7C+Computer+Vision;Hackathon+Builder;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1000&color=4F8CC9&center=true&vCenter=true&width=700&lines=AI+%7C+Full-Stack+Developer;Computer+Vision+Explorer;Hackathon+Builder;Always+Learning+Something+New" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-I'm a Computer Science student passionate about building products rather than just completing tutorials.
+I'm a Computer Science student passionate about building products that solve real problems.
 
-I enjoy working at the intersection of
-
-* 🤖 Artificial Intelligence
-* 👁️ Computer Vision
-* 🌐 Full Stack Development
-* ⚡ Hackathons
-* 🔍 Problem Solving
-
-Currently preparing for software engineering roles while building projects that solve real-world problems.
+- 🤖 Interested in Artificial Intelligence & AI Agents
+- 👁️ Exploring Computer Vision
+- 🌐 Full Stack Developer
+- ⚡ Regular Hackathon Participant
+- 💻 Preparing for Software Engineering Roles
+- 📚 Learning System Design & Backend Development
+- 🚀 Always building something new
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-### Languages
-
-Python • C++ • JavaScript
-
-### Frontend
-
-React • HTML • CSS
-
-### Backend
-
-Node.js • Express *(Spring Boot soon)*
-
-### AI
-
-OpenCV • NumPy • scikit-learn
-
-### Tools
-
-Git • GitHub • Linux • VS Code • Arduino • Raspberry Pi
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,express,html,css,git,github,linux,vscode,arduino,raspberrypi,mysql" />
+</p>
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
 ### 🚨 Smart Tourist Safety System
-
-AI-powered tourist safety platform with geofencing, emergency response, and digital identity.
+AI-powered tourist safety platform using geofencing, emergency response, blockchain identity and intelligent monitoring.
 
 ---
 
 ### 📧 Spam Email Classifier
-
-Machine learning model for detecting spam emails using NLP techniques.
-
----
-
-### 👁 Computer Vision Projects
-
-Experiments involving OpenCV, object detection, and image processing.
+Machine learning based spam detection using NLP and Scikit-learn.
 
 ---
 
-### 🌐 Web Applications
-
-Responsive React applications built while exploring modern frontend development.
-
----
-
-## 📈 Currently Working On
-
-* 🏆 Smart India Hackathon
-* 📚 Placement Preparation
-* 💻 Data Structures & Algorithms
-* 🤖 AI Projects
-* ⚙ Backend Development
+### 👁️ Computer Vision Experiments
+Object detection, image processing and OpenCV projects.
 
 ---
 
-## 🎯 2026 Goals
-
-* Win a national-level hackathon
-* Build production-ready AI projects
-* Master backend development
-* Solve 500+ DSA problems
-* Contribute to open source
+### 🌐 Full Stack Web Applications
+Modern responsive applications built using React and backend technologies.
 
 ---
 
-## 📊 GitHub Stats
+# 📈 Currently Working On
+
+- 🏆 Smart India Hackathon
+- 💻 Data Structures & Algorithms
+- 🤖 AI Projects
+- 🌐 Full Stack Development
+- ⚙️ Backend Development
+- 📚 Placement Preparation
+
+---
+
+# 🎯 2026 Goals
+
+- 🏆 Win a National Hackathon
+- 💯 Solve 500+ LeetCode Problems
+- 🚀 Build Production-Ready AI Applications
+- 🌍 Contribute to Open Source
+- 💼 Crack a Top Product-Based Company
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dumbesthuman&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dumbesthuman&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dumbesthuman&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
 ---
 
-## 🤝 Let's Connect
+# 🏅 Achievements
 
+- 🏆 Smart India Hackathon Participant
+- 🤖 AI & Computer Vision Projects
+- 🌐 Full Stack Development
+- 📚 Continuous Learning
 
-<a href="https://www.linkedin.com/in/ritesh-hiremath/" target="_blank">
-  * LinkedIn
+*(Update this section as you gain more achievements.)*
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ritesh-hiremath/">
+<img src="https://img.shields.io/badge/LinkedIn-Ritesh%20Hiremath-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<br>
 
-<a href="riteshhh.in" target="_blank">
-  * Portfolio 
+<a href="https://www.riteshhh.in">
+<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
-<br>
-* Discord: **@matrixglitch333**
+
+<a href="mailto:riteshrhiremath@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-### *"Stay curious. Build often. Improve continuously."*
+### ⚡ Fun Fact
+
+> "LoL backwards is LoL"
+
+
+
+⭐ *If you like my work, consider starring a repository!*
 
 </div>
+```
