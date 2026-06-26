@@ -74,7 +74,7 @@ Modern responsive applications built using React and backend technologies.
 - 💯 Solve 500+ LeetCode Problems
 - 🚀 Build Production-Ready AI Applications
 - 🌍 Contribute to Open Source
-- 💼 Crack a Top Product-Based Company
+
 
 ---
 
