@@ -111,10 +111,12 @@ Responsive React applications built while exploring modern frontend development.
 <a href="https://www.linkedin.com/in/ritesh-hiremath/" target="_blank">
   * LinkedIn
 </a>
+<br>
 
 <a href="riteshhh.in" target="_blank">
   * Portfolio 
 </a>
+<br>
 * Discord: **@matrixglitch333**
 
 ---
